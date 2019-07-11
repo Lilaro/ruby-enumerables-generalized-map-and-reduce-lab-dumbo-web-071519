@@ -24,4 +24,7 @@ def reduce(array, starting_point = nil)
   end
   new_total
 end
+=======
+    
+
 
